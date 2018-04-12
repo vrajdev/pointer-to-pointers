@@ -1,0 +1,22 @@
+A Program to tske the input of test marks for a user desired number of groups with the user number desired number of students
+in each group.
+
+
+
+Pesudo Code
+
+//Start Program
+//Declare all the varibales
+//ask the user to input the no of groups
+//allocate the memory for the number of groups 
+//start the for(loop)--> that runs many times on the number of the groups
+	{
+
+    //on the number of the groups
+	//ask user to enter Number of students for the group
+	//as the user to enter score for thst group
+		start the inner for(loop)
+			{
+				// take the input of score 
+			} 
+	}
